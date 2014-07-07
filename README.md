@@ -23,7 +23,7 @@ Usage
 
 Demo Source
 -----------
-This is demo(http://php.hanul.co/floatbox.js)'s source code.
+This is demo(http://php.hanul.co/floatbox.js) source code.
 ``` html
 <!DOCTYPE HTML>
 <html>
