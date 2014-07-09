@@ -54,7 +54,7 @@ This is demo(http://php.hanul.co/floatbox.js) source code.
 	</head>
 
 	<body>
-		<h3>Float Div 문제</h3>
+		<h3>Float Div Problem</h3>
 		<div>
 			<div class="float-left">
 				Left
@@ -79,7 +79,7 @@ This is demo(http://php.hanul.co/floatbox.js) source code.
 			Normal
 		</div>
 
-		<h3>문제가 해결되었으나, 동적으로 Float Div가 추가되면 문제</h3>
+		<h3>Problem solved, but a problem occurs when Float Div is added dynamically.</h3>
 		<p>
 			&lt;div class="floatbox"&gt; or $('QUERY').floatbox();
 		</p>
@@ -107,11 +107,11 @@ This is demo(http://php.hanul.co/floatbox.js) source code.
 			Normal
 		</div>
 
-		<h3>동적으로 Float Div가 추가되어도 문제 없음</h3>
-		<p>
-			&lt;div class="floatbox"&gt; or $('QUERY').floatbox();<br>
-			동적으로 추가될 때 마다 $('QUERY').floatbox();
-		</p>
+		<h3>No problem occurs even if Float Div is added dynamically.</h3>
+	        <p>
+	            &lt;div class="floatbox"&gt; or $('QUERY').floatbox();<br>
+	            Whenever dynamically added$('QUERY').floatbox();
+	        </p>
 		<div class="floatbox">
 			<div class="float-left">
 				Left
