@@ -108,10 +108,10 @@ This is demo(http://php.hanul.co/floatbox.js) source code.
 		</div>
 
 		<h3>No problem occurs even if Float Div is added dynamically.</h3>
-	        <p>
-	            &lt;div class="floatbox"&gt; or $('QUERY').floatbox();<br>
-	            Whenever dynamically added$('QUERY').floatbox();
-	        </p>
+		<p>
+		    &lt;div class="floatbox"&gt; or $('QUERY').floatbox();<br>
+		    Whenever dynamically added$('QUERY').floatbox();
+		</p>
 		<div class="floatbox">
 			<div class="float-left">
 				Left
